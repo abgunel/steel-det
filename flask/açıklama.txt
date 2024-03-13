@@ -1,0 +1,5 @@
+flaskapp ile sunucu başlatılır ancak videonun işlenebilmesi için yolu yenilenmelidir.
+Kod içerisinde açıklamalar mevcuttur.
+roll2k_low.mp4 eğitim veri setinden görüntüler içerir, abcak Github'a yükleyebilmek için kalitesini briaz daha düşürdüm.
+NEU-DET-SCRACTH ise NEU-DET veri setindeki SCRATCH örneklerinden oluşur
+Kullanılmak istenen görüntünün yolu kod içerisinde değiştirilmelidir.
